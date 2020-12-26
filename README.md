@@ -39,14 +39,13 @@ There are outliers in the data.  Some campaigns have extremely high goals and th
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date? The most successful kickstarter campaigns were started in May.  On the other hand, December does not seem like a great time to launch a campaign.
+- The most successful kickstarter campaigns were started in May.  On the other hand, December does not seem like a great time to launch a campaign.
 
-- What can you conclude about the Outcomes based on Goals? There is a relationship in between the goal amount of the campaign and the outcome.  As the goal amount of the campaign increases, the probability to achieve success decreases.
-76% of the campaigns that had a goal less than $1,000 were successful, whereas 100% of campaigns with goals in a range of $45000-$49000 failed.
+- There is a relationship in between the goal amount of the campaign and the outcome.  As the goal amount of the campaign increases, the probability to achieve success decreases. 76% of the campaigns that had a goal less than $1,000 were successful, whereas 100% of campaigns with goals in a range of $45000-$49000 failed.
 
-- What are some limitations of this dataset? There are outliers in the data.  Some campaigns have extremely high goals and this makes it harder to find relationships and tendencies. We recommend analyzing in detail the extreme data points to understand if they are relevant for the study.
+- There are outliers in the data.  Some campaigns have extremely high goals and this makes it harder to find relationships and tendencies. We recommend analyzing in detail the extreme data points to understand if they are relevant for the study.
 
-- What are some other possible tables and/or graphs that we could create?
+- Other possible tables and/or graphs that we could create:
 *We can analyze year by year and find if there is a tendency for decrease in the funding for kickstarter campaigns.
 *We can determine how much people have pledged to campaigns historically by analyzing pledged amount and backers count.  This will help us to find incentives for our client's campaign.
 *We might want to analyze successful campaigns in the range of our client's budget to determine patterns.
