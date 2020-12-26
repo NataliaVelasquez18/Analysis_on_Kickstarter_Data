@@ -46,7 +46,7 @@ There are outliers in the data.  Some campaigns have extremely high goals and th
 - There are outliers in the data.  Some campaigns have extremely high goals and this makes it harder to find relationships and tendencies. We recommend analyzing in detail the extreme data points to understand if they are relevant for the study.
 
 - Other possible tables and/or graphs that we could create:
-*We can analyze year by year and find if there is a tendency for decrease in the funding for kickstarter campaigns.
-*We can determine how much people have pledged to campaigns historically by analyzing pledged amount and backers count.  This will help us to find incentives for our client's campaign.
-*We might want to analyze successful campaigns in the range of our client's budget to determine patterns.
-*We can analyze the date launched and deadline of successful campaings to determine wheter the campaign lenght impacts success.
+  *We can analyze year by year and find if there is a tendency for decrease in the funding for kickstarter campaigns.
+  *We can determine how much people have pledged to campaigns historically by analyzing pledged amount and backers count.  This will help us to find incentives for our client's campaign.
+  *We might want to analyze successful campaigns in the range of our client's budget to determine patterns.
+  *We can analyze the date launched and deadline of successful campaings to determine wheter the campaign lenght impacts success.
