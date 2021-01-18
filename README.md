@@ -1,3 +1,6 @@
+
+![kick.png](Resources/kick.png)
+
 # Kickstarting with Excel
 
 ## Overview of Project
