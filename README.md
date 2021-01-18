@@ -1,5 +1,5 @@
 
-<img src="https://github.com/nativelasquez-austin/Analysis_on_Kickstarter_Data/blob/main/Resources/kick.png" width="250" height="250" />
+<img src="https://github.com/nativelasquez-austin/Analysis_on_Kickstarter_Data/blob/main/Resources/kick.png" width="350" height="350" />
 
 ![kick.png](Resources/kick.png)
 
