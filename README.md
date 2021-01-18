@@ -1,7 +1,6 @@
 
-<img src="https://github.com/nativelasquez-austin/Analysis_on_Kickstarter_Data/blob/main/Resources/kick.png" width="350" height="350" />
+<img src="https://github.com/nativelasquez-austin/Analysis_on_Kickstarter_Data/blob/main/Resources/kick.png" width="450" height="450" />
 
-![kick.png](Resources/kick.png)
 
 # Kickstarting with Excel
 
