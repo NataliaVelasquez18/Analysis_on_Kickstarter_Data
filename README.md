@@ -1,5 +1,5 @@
 
-<img src="https://github.com/nativelasquez-austin/Analysis_on_Kickstarter_Data/blob/main/Resources/kick.png" width="450" height="450" />
+<img src="https://github.com/nativelasquez-austin/Analysis_on_Kickstarter_Data/blob/main/Resources/kick.png" width="250" height="250" />
 
 
 # Kickstarting with Excel
