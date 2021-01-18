@@ -1,4 +1,6 @@
 
+<img src="https://github.com/nativelasquez-austin/Pewlett_Hackard/blob/main/Resources/mentorship_eligibility_per_title.png" width="250" height="250" />
+
 ![kick.png](Resources/kick.png)
 
 # Kickstarting with Excel
